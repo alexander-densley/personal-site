@@ -1,0 +1,12 @@
+body {
+	font-family: 'Inter', sans-serif;
+	line-height: 1.4;
+	font-size: 15px;
+	padding: 0 10px;
+	margin: 10px auto;
+	max-width: 650px;
+}
+#maincontent {
+	max-width: 42em;
+	margin: 10 auto;
+}
